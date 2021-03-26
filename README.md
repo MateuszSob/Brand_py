@@ -21,11 +21,11 @@ This is a simple application project, that allows you to add a logo to a chosen 
 
 ## Code Examples/Run
 Show examples of usage:  
-Default - `pytohn brand.py picture.jpg logo.jpg`
-Resize Logo - `pytohn brand.py picture.jpg logo.jpg 50`
-Logo position - `pytohn brand.py picture.jpg logo.jpg 50 CC`
-Margin - `pytohn brand.py picture.jpg logo.jpg 50 CC 20`
-Watermark - `pytohn brand.py picture.jpg logo.jpg 50 W`
+Default - `pytohn brand.py picture.jpg logo.jpg`  
+Resize Logo - `pytohn brand.py picture.jpg logo.jpg 50`  
+Logo position - `pytohn brand.py picture.jpg logo.jpg 50 CC`  
+Margin - `pytohn brand.py picture.jpg logo.jpg 50 CC 20`  
+Watermark - `pytohn brand.py picture.jpg logo.jpg 50 W`  
 
 Size:  
     Value in percent 0-100
