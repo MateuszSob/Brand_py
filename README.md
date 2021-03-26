@@ -17,7 +17,7 @@ This is a simple application project, that allows you to add a logo to a chosen 
 
 ## Technologies
 * Python 3.8.5
-* Pillow - Image
+* Pillow
 
 ## Code Examples/Run
 Show examples of usage:  
